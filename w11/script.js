@@ -24,3 +24,9 @@ if (result.min !== null && result.max !== null) {
 } else {
     alert("5-ке бөлінетін сандар жоқ.");
 }
+
+
+
+
+
+
