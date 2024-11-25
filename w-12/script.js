@@ -30,3 +30,10 @@ function collectMoney() {
 
 // Бағдарламаны іске қосу
 collectMoney();
+
+
+
+
+
+
+
